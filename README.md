@@ -11,11 +11,18 @@
 - 🌌 **当前项目**：[Aura](https://github.com/Jeesemmy/Aura) - 一个专注于极致视觉体验的照片墙应用。
 
 ### 📊 我的 GitHub 战斗力
-<p align="center">
-  <img src="https://github-readme-stats-one-zeta.vercel.app/api?username=Jeesemmy&show_icons=true&theme=dracula&hidetitle=true" height="195" />
-  <img src="https://github-readme-stats-one-zeta.vercel.app/api/top-langs/?username=Jeesemmy&layout=compact&theme=dracula&hide_border=true&card_width=350" height="195" />
-</p>
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-one-zeta.vercel.app/api?username=Jeesemmy&show_icons=true&theme=dracula&hidetitle=false" height="200" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-one-zeta.vercel.app/api/top-langs/?username=Jeesemmy&layout=compact&theme=dracula&hide_border=false" height="200" />
+    </td>
+  </tr>
+</table>
 
+---
 
 ---
 
