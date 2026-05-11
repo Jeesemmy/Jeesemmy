@@ -11,10 +11,10 @@
 
 ### 📊 我的 GitHub 战斗力
 <p align="center">
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeesemmy&show_icons=true&theme=dracula&hidetitle=true&cache_seconds=1800" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeesemmy&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800" height="170" />
+  <img src="https://github-readme-stats-one-zeta.vercel.app/api?username=Jeesemmy&show_icons=true&theme=dracula&hidetitle=true" height="170" />
+  <img src="https://github-readme-stats-one-zeta.vercel.app/api/top-langs/?username=Jeesemmy&layout=compact&theme=dracula&hide_border=true" height="170" />
 </p>
+
 
 ---
 
