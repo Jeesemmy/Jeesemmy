@@ -15,9 +15,3 @@
   <img src="https://github-readme-stats-one-zeta.vercel.app/api?username=Jeesemmy&show_icons=true&theme=dracula&hidetitle=true" height="170" />
   <img src="https://github-readme-stats-one-zeta.vercel.app/api/top-langs/?username=Jeesemmy&layout=compact&theme=dracula&hide_border=true" height="170" />
 </p>
-
----
-
-<p align="center">
-  "谢谢你的使用"
-</p>
