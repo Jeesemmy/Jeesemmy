@@ -7,7 +7,7 @@
 ### 🛠️ 正在折腾的领域
 - 📱 **Android 开发**：目前主攻现代化 UI 框架 **Jetpack Compose**。
 - 🎨 **视觉美学**：执着于毛玻璃（Glassmorphism）与暖系风格的交互实验。
-- 🌌 **当前项目**：[Aura 6.0](https://github.com/Jeesemmy/Aura) - 一个专注于极致视觉体验的照片墙应用。
+- 🌌 **当前项目**：[Aura](https://github.com/Jeesemmy/Aura) - 一个专注于极致视觉体验的照片墙应用。
 
 ### 📊 我的 GitHub 战斗力
 <p align="center">
