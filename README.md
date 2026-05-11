@@ -1,8 +1,9 @@
 # 🥰 你好，我是 Jeesemmy
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jeesemmy&label=访问量&color=blue&style=flat" alt="Jeesemmy" />
+  <img src="https://komarev.com/ghpvc/?username=Jeesemmy&label=VIEWS&color=0078d7&style=flat-square" alt="Jeesemmy" />
 </p>
+
 
 ### 🛠️ 正在折腾的领域
 - 📱 **Android 开发**：目前主攻现代化 UI 框架 **Jetpack Compose**。
