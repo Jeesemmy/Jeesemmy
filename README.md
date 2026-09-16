@@ -30,6 +30,10 @@
 ### 📊 我的 GitHub 战斗力
 
 <p align="center">
-  <img src="https://github-readme-stats-one-zeta.vercel.app/api?username=Jeesemmy&show_icons=true&theme=dracula&hide_title=true" height="170" />
-  <img src="https://github-readme-stats-one-zeta.vercel.app/api/top-langs/?username=Jeesemmy&layout=compact&theme=dracula&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-one-zeta.vercel.app/api?username=Jeesemmy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&ring_color=0078d7" />
+  <img src="https://github-readme-stats-one-zeta.vercel.app/api/top-langs/?username=Jeesemmy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jeesemmy&theme=tokyonight&hide_border=true&date_format=j%2FM%2FY" />
 </p>
