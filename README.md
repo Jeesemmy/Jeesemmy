@@ -29,11 +29,12 @@
 
 
 
+
 <p align="center">
-  <img src="https://github-readme-stats-one-zeta.vercel.app/api?username=Jeesemmy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&ring_color=0078d7" />
-  <img src="https://github-readme-stats-one-zeta.vercel.app/api/top-langs/?username=Jeesemmy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img src="https://github-readme-stats-one-zeta.vercel.app/api?username=Jeesemmy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&ring_color=0078d7" width="48%" />
+  <img src="https://github-readme-stats-one-zeta.vercel.app/api/top-langs/?username=Jeesemmy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jeesemmy&theme=tokyonight&hide_border=true&date_format=j%2FM%2FY" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jeesemmy&theme=tokyonight&hide_border=true&date_format=j%2Fm%2FY" width="98%" />
 </p>
