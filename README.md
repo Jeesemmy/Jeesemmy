@@ -14,7 +14,7 @@
 
 ---
 
-### ⚡ 核心正在折腾 (Featured Project)
+### ⚡ 正在折腾 (Featured Project)
 
 <table width="100%">
   <tr>
@@ -55,8 +55,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Jeesemmy&theme=tokyonight&hide_border=true&date_format=j%2Fm%2FY" width="98%" />
 </p>
 
----
-
-<div align="center">
-  <i>⚡ "Code is like humor. When you have to explain it, it’s bad."</i>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeesemmy&theme=tokyonight&hide_border=true&radius=12&area=true" width="98%" />
+</p>
