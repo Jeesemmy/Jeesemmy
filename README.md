@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-one-zeta.vercel.app/api/top-langs/?username=Jeesemmy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%" />
+  <img src="https://github-readme-stats-one-zeta.vercel.app/api/top-langs/?username=Jeesemmy&layout=donut&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
