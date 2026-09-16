@@ -1,6 +1,7 @@
 # 🍃 你好，我是 Jeesemmy
 
 <p align="center">
+   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=Jeesemmy&label=VIEWS&color=0078d7&style=flat-square" alt="Jeesemmy" />
   <img src="https://img.shields.io/badge/Status-Hacking%20The%20Future-blue?style=flat-square&logo=ghost" alt="Status" />
   <img src="https://img.shields.io/badge/Platform-Android%20%2F%20PC-orange?style=flat-square&logo=android" alt="Platform" />
