@@ -47,14 +47,13 @@
 ### 📊 个人战斗力矩阵 (GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats-one-zeta.vercel.app/api?username=Jeesemmy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&ring_color=0078d7" width="48%" />
-  <img src="https://github-readme-stats-one-zeta.vercel.app/api/top-langs/?username=Jeesemmy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" />
+  <img src="https://github-readme-stats-one-zeta.vercel.app/api?username=Jeesemmy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&ring_color=0078d7" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jeesemmy&theme=tokyonight&hide_border=true&date_format=j%2Fm%2FY" width="98%" />
+  <img src="https://github-readme-stats-one-zeta.vercel.app/api/top-langs/?username=Jeesemmy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeesemmy&theme=tokyonight&hide_border=true&radius=12&area=true" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jeesemmy&theme=tokyonight&hide_border=true&date_format=j%2Fm%2FY" width="100%" />
 </p>
