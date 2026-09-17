@@ -19,7 +19,7 @@
 <table width="100%">
   <tr>
     <td width="100%" align="left">
-      <h3>🌌 <a href="https://github.com/Jeesemmy/Aura">Aura v11.0</a></h3>
+      <h3>🏅 <a href="https://github.com/Jeesemmy/Aura">Aura v11.0</a></h3>
       <p><b>一款追求极致触觉交互与高刷丝滑体验的现代化 Android 照片墙应用。</b></p>
       <ul>
         <li><b>🎨 视觉重构：</b> 沉浸式原生风格 + 动态时态问候轮换，打造极具呼吸感的 UI。</li>
