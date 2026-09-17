@@ -22,7 +22,7 @@
       <h3>🌌 <a href="https://github.com/Jeesemmy/Aura">Aura v11.0</a></h3>
       <p><b>一款追求极致触觉交互与高刷丝滑体验的现代化 Android 照片墙应用。</b></p>
       <ul>
-        <li><b>🎨 视觉重构：</b> 沉浸式毛玻璃风格 + 动态时态问候轮换，打造极具呼吸感的 UI。</li>
+        <li><b>🎨 视觉重构：</b> 沉浸式原生风格 + 动态时态问候轮换，打造极具呼吸感的 UI。</li>
         <li><b>⚙️ 机械美学：</b> 仿闹钟震动滚轮调节、图片长按自由拖拽排序、硬件加速位图直出。</li>
         <li><b>🛠️ 核心栈：</b> Jetpack Compose · Material 3 · DataStore · Coil (RGB_565 GPU 直出)。</li>
       </ul>
