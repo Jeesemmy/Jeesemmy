@@ -41,19 +41,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
----
-
-### 📊 个人战斗力矩阵 (GitHub Stats)
-
-<p align="center">
-  <img src="https://github-readme-stats-one-zeta.vercel.app/api?username=Jeesemmy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&ring_color=0078d7" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-one-zeta.vercel.app/api/top-langs/?username=Jeesemmy&layout=donut&theme=tokyonight&hide_border=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jeesemmy&theme=tokyonight&hide_border=true&date_format=j%2Fm%2FY" width="100%" />
-</p>
