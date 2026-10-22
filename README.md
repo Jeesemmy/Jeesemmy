@@ -7,8 +7,7 @@
     <img src="https://img.shields.io/badge/Status-Hacking%20The%20Matrix-0ea5e9?style=flat-square&logo=ghost&logoColor=white" />
     <img src="https://img.shields.io/badge/Core_Stack-Jetpack%20Compose-3b82f6?style=flat-square&logo=jetpack-compose&logoColor=white" />
     <img src="https://img.shields.io/badge/Architecture-Clean%20%2F%20Reactive-8b5cf6?style=flat-square&logo=android&logoColor=white" />
-    <img src="https://komarev.com/ghpvc/?username=Jeesemmy&label=PROFILE%20VIEWS&color=0078d7&style=flat-square" alt="Views" />
-  </p>
+   
 
 </div>
 
