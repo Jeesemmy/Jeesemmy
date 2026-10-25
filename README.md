@@ -18,7 +18,7 @@
 <table width="100%">
   <tr>
     <td width="100%" align="left">
-      <h3>🏅 <a href="https://github.com/Jeesemmy/Aura">Aura v15.0</a></h3>
+      <h3>🏅 <a href="https://github.com/Jeesemmy/Aura">Aura</a></h3>
       <p><b>高刷丝滑体验的 Android 照片墙应用。</b></p> 
   </tr>
 </table>
