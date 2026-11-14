@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 动态酷炫标题与状态徽章 -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Jeesemmy;Android+Developer;Building+The+Future+with+Aura" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Jeesemmy;GitHub+Jeesemmy+Aura" alt="Typing SVG" />
 
   <p>
     <img src="https://img.shields.io/badge/Status-Hacking%20The%20Matrix-0ea5e9?style=flat-square&logo=ghost&logoColor=white" />
