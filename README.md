@@ -7,24 +7,8 @@
     <img src="https://img.shields.io/badge/Status-Hacking%20The%20Matrix-0ea5e9?style=flat-square&logo=ghost&logoColor=white" />
     <img src="https://img.shields.io/badge/Core_Stack-Jetpack%20Compose-3b82f6?style=flat-square&logo=jetpack-compose&logoColor=white" />
     <img src="https://img.shields.io/badge/Architecture-Clean%20%2F%20Reactive-8b5cf6?style=flat-square&logo=android&logoColor=white" />
-   
 
-</div>
-
----
-
-### ⚡ 正在折腾 (Featured Project)
-
-<table width="100%">
-  <tr>
-    <td width="100%" align="left">
-      <h3>🏅 <a href="https://github.com/Jeesemmy/Aura">Aura</a></h3>
-      <p><b>高刷丝滑体验的 Android 照片墙应用。</b></p> 
-  </tr>
-</table>
-
----
-
+  
 ### 🛠️ 核心技能与装备 (Tech Stack)
 
 <p align="center">
