@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Architecture-Clean%20%2F%20Reactive-8b5cf6?style=flat-square&logo=android&logoColor=white" />
 
   
-### 🛠️ 核心技能与装备 (Tech Stack)
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
